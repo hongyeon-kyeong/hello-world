@@ -1,5 +1,4 @@
-# hello-world
-Tutorial Repository
+# About ME
 
-Hello. My Name is hongyeon. I'm interested in Artificial Neural Network and Data Prediction.. 
-I'm studying Python. I'm good at singing.
+1. 2021.01.07 힘킹산 프로젝트 직무 인터뷰 
+: IT- ERP관리 직무
